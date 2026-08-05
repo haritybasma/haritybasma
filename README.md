@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Basma 👋
 
-<!--
-**haritybasma/haritybasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm studying Computer Engineering (2nd year, DEUST) at FSTM, Hassan II University
 
-Here are some ideas to get you started:
+💻 Skills: PHP | MySQL | JavaScript | React | Next.js | PostgreSQL | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Completed a back-end & front-end development internship at Palmfox (July 2026) —
+built ERP modules (PHP/MySQL) and an AI chatbot integrating Ollama
+
+🌱 Currently learning: Next.js, Prisma, and building full-stack apps
+
+🚀 Recent projects: GestImmo (asset management, Next.js/Prisma/PostgreSQL), PalmFox ERP, Stock Manager
+
+📈 Goals:
+- Strengthen back-end architecture and database design skills
+- Build and deploy real-world full-stack projects
+- Take on freelance missions and grow professionally
+- Keep learning new tools and frameworks
+
+🤝 I'm open to freelance opportunities and back-end/full-stack development roles
+
+📫 How to reach me:
+GitHub: https://github.com/haritybasma
